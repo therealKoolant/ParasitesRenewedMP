@@ -16,15 +16,9 @@
         {
             "url": "https://modrinth.com/mod/fluidlogged-api/version/2.2.7",
             "follows": [
-                "Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+                "Fluidlogged-API-v2.2.7-mc1.12.2.jar(359.91 KiB)"
             ],
             "fileName": "Fluidlogged-API-v2.2.7-mc1.12.2.jar"
-        },
-        {
-			"url": "https://cdn.modrinth.com/data/L55Wy0Fz/versions/QBprvpeM/JSON-Paintings-v1.3.0-mc1.12.2.jar"
-	},
-	{
-	"url": "https://cdn.modrinth.com/data/L55Wy0Fz/versions/QBprvpeM/JSON-Paintings-v1.3.0-mc1.12.2.jar"
-	}
+        }
     ]
 }
