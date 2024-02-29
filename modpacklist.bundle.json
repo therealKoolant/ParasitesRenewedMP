@@ -1,0 +1,20 @@
+{
+	"url":
+	[
+		{
+			"url": "https://optifine.net/adloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+			"follows": ["preview OptiFine 1.12.2 HD U G6 pre1"],
+			"fileName": "OptiFine_1.12.2_HD_U_G6_pre1.jar",
+			"options": { "launchwrapperTweakerForceNext": true },
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"url": "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+		},
+		{
+			"url": "https://www.curseforge.com/minecraft/mc-mods/friendly-chests/download/4476120"
+		}
+	]
+}
