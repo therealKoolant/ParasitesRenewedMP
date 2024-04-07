@@ -12,13 +12,6 @@
             "metadata": {
                 "side": "CLIENT"
             }
-        },
-        {
-            "url": "https://modrinth.com/mod/fluidlogged-api/version/2.2.7",
-            "follows": [
-                "Download Fluidlogged-API-v2.2.7-mc1.12.2.jar"
-            ],
-            "fileName": "Fluidlogged-API-v2.2.7-mc1.12.2.jar"
         }
     ]
 }
