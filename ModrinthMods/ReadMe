@@ -1,1 +1,20 @@
+A: Why do I have mods ruploaded here?
 
+To keep it breif, so i can have them in the modpack. These 3 mods were posted on Modrinth, but are either outdated/not on curseforge. I However, I can use File Director to download it, 
+but for some reason, the way the Modrinth is setup, when using file director with Java 51 (The default Java the mojang sends with Minecraft), I get an error that crashes the game.
+I asked the 1.12.2 modding coalition, and they said it was an SSL error. When using a newer version of java, it works. However, curseforge (which is what my modpack is posted on)
+does not allow the user to switch the java version easily. This makes the only way for you to do it is through the minecraft launcher (manually) this will reset every time and will 100% deter people from playing 
+this modpack. I posted it here to give a direct download that does not give me the error, as it works for some reason. Idk why, but if it works, it works.
+(For Friendly Chests, it is on curseforge, but it will crash if FluidLogged API is not detected, Even before File Director can even download Fluidlogged API. Meaning that I need to also make
+Friendly Chests download from here because i don't know how to download from curseforge using Director)
+
+B: Permission
+I did not ask explicitly for permission, however, Fluidlogged API, Nether API, and Friendly chests are all made by jbredwards, who has said in a previous Curseforge comment that the mod (being FluidLoggedAPI) 
+does allow redistribution, but he would rather it be through File Director. Well this is sort of a mix of that lol.
+I will remove these mods from here if jbredwards makes a direct download from github for me to use, but i dont think he will, and this'll just make it easier for me to update.
+
+C: "I'm skeptical"
+For users who may be untrustful of these mods that aren't mine being hosted on my github. don't worry. There are directly downloaded from modrinth and reuploaded here. I do not change anything. 
+I hope that clears it up for you.
+
+I just wanna make a cool modpack, lol
