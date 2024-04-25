@@ -1,6 +1,6 @@
 A: Why do I have mods ruploaded here?
 
-To keep it breif, so i can have them in the modpack. These 3 mods were posted on Modrinth, but are either outdated/not on curseforge. I However, I can use File Director to download it, 
+To keep it breif, so i can have them in the modpack. These 3 mods were posted on Modrinth, but are either outdated/not on curseforge. However, I can use File Director to download it, 
 but for some reason, the way the Modrinth is setup, when using file director with Java 51 (The default Java the mojang sends with Minecraft), I get an error that crashes the game.
 I asked the 1.12.2 modding coalition, and they said it was an SSL error. When using a newer version of java, it works. However, curseforge (which is what my modpack is posted on)
 does not allow the user to switch the java version easily. This makes the only way for you to do it is through the minecraft launcher (manually) this will reset every time and will 100% deter people from playing 
