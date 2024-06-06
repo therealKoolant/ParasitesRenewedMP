@@ -24,6 +24,10 @@
 	    	{
 			"url": "https://github.com/therealKoolant/ParasitesRenewedMP/raw/main/ModrinthMods/Friendly-Chests-v1.0.3-mc1.12.2.jar",
 			"fileName": "Friendly-Chests-mc1.12.2.jar"
+		},
+	    	{
+			"url": "https://github.com/therealKoolant/ParasitesRenewedMP/raw/main/ModrinthMods/Future-MC-0.2.19.jar",
+			"fileName": "Future-MC-1.12.2.jar"
 		}
     ]
 }
