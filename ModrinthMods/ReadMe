@@ -16,12 +16,17 @@ I put this here because I need to download it from another source besides cursef
 which causes it to crash every time you open an essential mod menu. However, using Forgelin-Continuous, this problem seems to go away. Okay, so just remove Forgelin and download Forgelin-Continuous, right?
 well, since Forgelin is listed as a dependancy in curseforge, it will automatically download regular Forgelin when importing, even if the export does not include the mod. Meaning that I would need to download
 the mod from another source. But once again, I can't do modrinth, and I don't think i can do CF either, because of the way the download page works. Meaning that once again, I need to download it from here,
-so that I can use Forgelin-Continuous instead of Forgelin
+as FutureMC does not have an up to date release on the github page.
 
 B: Permission
+
+jbredwards mods:
 I did not ask explicitly for permission, however, Fluidlogged API, Nether API, and Friendly chests are all made by jbredwards, who has said in a previous Curseforge comment that the mod (being FluidLoggedAPI) 
 does allow redistribution, but he would rather it be through File Director. Well this is sort of a mix of that lol.
 I will remove these mods from here if jbredwards makes a direct download from github for me to use, but i dont think he will, and this'll just make it easier for me to update.
+
+FutureMC:
+Well, I didn't ask for permission (All Rights Reserved), but I will gladly remove the mod from here and replace it with a link to the official download once a release comes on github for me to download.
 
 C: "I'm skeptical"
 For users who may be untrustful of these mods that aren't mine being hosted on my github. don't worry. There are directly downloaded from modrinth and reuploaded here. I do not change anything. 
