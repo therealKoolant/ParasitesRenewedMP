@@ -1,12 +1,22 @@
 A: Why do I have mods ruploaded here?
 
-To keep it breif, so i can have them in the modpack. These 3 mods were posted on Modrinth, but are either outdated/not on curseforge. However, I can use File Director to download it, 
+To keep it breif, so i can have them in the modpack. 
+
+jbredwards mods:
+These 3 mods were posted on Modrinth, but are either outdated/not on curseforge. However, I can use File Director to download it, 
 but for some reason, the way the Modrinth is setup, when using file director with Java 51 (The default Java the mojang sends with Minecraft), I get an error that crashes the game.
 I asked the 1.12.2 modding coalition, and they said it was an SSL error. When using a newer version of java, it works. However, curseforge (which is what my modpack is posted on)
 does not allow the user to switch the java version easily. This makes the only way for you to do it is through the minecraft launcher (manually) this will reset every time and will 100% deter people from playing 
 this modpack. I posted it here to give a direct download that does not give me the error, as it works for some reason. Idk why, but if it works, it works.
 (For Friendly Chests, it is on curseforge, but it will crash if FluidLogged API is not detected, Even before File Director can even download Fluidlogged API. Meaning that I need to also make
 Friendly Chests download from here because i don't know how to download from curseforge using Director)
+
+FutureMC:
+I put this here because I need to download it from another source besides curseforge. This is because Forgelin is a dependancy of FutureMC, however, it causes an incompatiblity error with essential mod,
+which causes it to crash every time you open an essential mod menu. However, using Forgelin-Continuous, this problem seems to go away. Okay, so just remove Forgelin and download Forgelin-Continuous, right?
+well, since Forgelin is listed as a dependancy in curseforge, it will automatically download regular Forgelin when importing, even if the export does not include the mod. Meaning that I would need to download
+the mod from another source. But once again, I can't do modrinth, and I don't think i can do CF either, because of the way the download page works. Meaning that once again, I need to download it from here,
+so that I can use Forgelin-Continuous instead of Forgelin
 
 B: Permission
 I did not ask explicitly for permission, however, Fluidlogged API, Nether API, and Friendly chests are all made by jbredwards, who has said in a previous Curseforge comment that the mod (being FluidLoggedAPI) 
